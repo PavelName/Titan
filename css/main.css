@@ -2,6 +2,7 @@
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
+    background-image: url("./../img/images-fon.jpeg");
 }
 .container {
     max-width: 1110px;
@@ -18,10 +19,10 @@ body {
     align-items: center;
 
     width: 100%;
-    height: 100vh;
+    height: 50vh;
 
     background-color: rgb(56, 122, 193);
-    background-image: url("./../img/images-fon.jpeg");
+    
     background-size: cover;
     background-position: center;
 }
