@@ -8,6 +8,13 @@ body {
     max-width: 1110px;
     background-color: rgb(135, 87, 180);
 }
+
+.container p {
+    color: aliceblue;
+    border: 2px solid red;
+    border-radius: 50px;
+    align-items: center;
+}
 /*  header */
 
 .header {
